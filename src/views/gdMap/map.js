@@ -68,7 +68,7 @@ export class World extends Mini3d {
     // 地图拉伸高度
     this.depth = 0.5
     this.mapFocusLabelInfo = {
-      name: "广东省",
+      name: "Sharpa 灵巧手",
       enName: "GUANGDONG PROVINCE",
       center: [113.280637, 20.625178],
     }
