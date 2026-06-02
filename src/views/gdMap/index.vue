@@ -3,7 +3,7 @@
     <!-- 地图 -->
     <mapScene ref="mapSceneRef"></mapScene>
     <div class="large-screen-wrap" id="large-screen">
-      <m-header title="广东省数据可视化平台" sub-text="Guangdong Economic Visualization Platform">
+      <m-header title="机器人采集运营平台" sub-text="Guangdong Economic Visualization Platform">
         <!--左侧 天气 -->
         <template v-slot:left>
           <div class="m-header-weather"><span>小雨</span><span>27℃</span></div>
